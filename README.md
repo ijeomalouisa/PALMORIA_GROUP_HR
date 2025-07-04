@@ -2,22 +2,22 @@
 
 
 ###  PROJECT TOPIC: PALMORIA GROUP HR ANALYSIS
-Amazon is a company that provides E-commerce sales. They deals with different kinds of accessories ranging from electronics, computer/accessories, car and motor bikes accessories, helath and personal care medical equipments, musical instrument, office products, toys and games etc. This project will allow me to generate insight that can guide the company on product improvement,marketing strategies and customer engagement.
+The analysis is to look for the issues bordering on gender inequality of the Palmoria Group HR manufacturing company in its three (3) regions, the company is based in Nigeria and an HR analytics experts is needed to analyze the company's data and come up with recommendations for Management attention.
 
-### DATA SOURCE:
-**Amazon Sales Data:** The primary dataset used for this analysis is the "Amazon_Case_Study.xlsx" file. The dataset contains information from each sales which includes;
-* Product details: name, category, price, discount and ratings
-* Customer engagement: user reviews, titles, an contents.
+### PROJECT OVERVIEW
+Palmoria Group is a manufacturing company based in Nigeria. The company is faced with the issues bordering on gender inequality in its three (3) regions with the country. Based on their ambitions to scale the business to other regions and even overseas, if the problems are not tackled, it can spriral downwards thereby jeopardize the company's image. To address the issues before they get out of hand, an HR Analyts needs to come in to identify key areas within the business that could give rise to issues and address them immediately.
+
+### SOURCE OF DATA:
+The primary dataset to be used for this analysis is the "Palmoria Group Bonus Rules.xlsx" and the "Palmoria Group Emploment.CSV file. The dataset contains information such as; Staff name, gender, department, salary, location and ratings.
 
 ### TOOLS USED: 
-- Microsoft Excel (https://www.microsoft.com), other tools I used to explore are;
-- Excel Power query (for cleaning of the data)
-- Calculated columns (for creating new metrics of KPIs)
-- Pivot Charts ( for visualizing of the summarized data)
-- Pivot tables (to analyze the data from different angles to identify trends and patterns so as to make informed decision)
+- Power BI tool (https://www.microsoft.com), will be use to explore, overall structure is 
+- Power BI query (for cleaning of the data)
+- Analysis Dashboard (for Deep-Dive Metrics and Tables)
+- Visualization Dashboard ( for excuting summary and high-level charts)
 
 ###  EXPLORATORY DATA ANALYSIS (EDA):
-An Exploratory Data (EDA) was deployed using Excel tools and relevant techniques to the context of each analysis. I will explore the Amazon sales data to answer these key questions. 
+A comprehensive Exploratory Data Analysis (EDA) was deployed using appropriate analytical tools and techniques relevant to the context of each dataset; the Palmoria Group bonus Rules from Excel and the Palmoria Group Employment.Comma Seperated Values data are used to answer these key questions. 
 
 ##### Task Question 1:
 
