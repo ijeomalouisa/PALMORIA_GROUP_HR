@@ -48,7 +48,7 @@ In view of the preparation task concerning the above case scnario and pointers f
 * Change the column to (a) Rating (b) Bonus %.
 * Change Data type for Bonus to percentage. Done
 
-Below is the Power BI query of the Bonus Rules data wrangling and the steps.....
+Below is the Power BI query of the Bonus Rule's data wrangling and the steps.....
 
 
 
@@ -56,8 +56,13 @@ Below is the Power BI query of the Bonus Rules data wrangling and the steps.....
 
 
 
+#### Step-by-Step Data Cleaning of Palmoria Groupemp.csv
 
+* From "HOME" Bar "GET DATA", "Text/CSV", select "Palmoria Group emp.csv"
+* Transform the data to load into power query (wrangling
+* 
 
+Below is the Power BI query of the Bonus Rule's data wrangling and the steps.....
 
 
 
