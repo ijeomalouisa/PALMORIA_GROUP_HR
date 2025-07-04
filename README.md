@@ -59,10 +59,32 @@ Below is the Power BI query of the Bonus Rule's data wrangling and the steps....
 #### Step-by-Step Data Cleaning of Palmoria Groupemp.csv
 
 * From "HOME" Bar "GET DATA", "Text/CSV", select "Palmoria Group emp.csv"
-* Transform the data to load into power query (wrangling
-* 
+* Transform the data to load into power query (wrangling)
+* Remove the "NULL" as instructed in the case scenario (Click of the "Department" drop down arrow and uncheck the null)
+* Go to "Salary" column and uncheck the NULL
+* Go to "Gender" column, right click and replace values (value to find "BlanK", replace with "Unknown") then click OK
+* Go to "HOME" Click on "Merge queries": click on department and click on the Bonus department too, Press and hold down Ctrl. key, then click on "Rating" in the emp., click on "Bonus" rating too Then OK.
+* Go to Bonus column, click on teh arrow opposite each other to uncheck "select all columns", then select and check on bonus, right click on the Bonus to replace values
+* Replace value (value to find "NULL" replaced with "0", then check the data type to percentage
+* to to "ADD COLUMN" bar (Custom Column), name it BONUS, = clcik on Salary * Bonus Rules, OK
+* Go to Add column again, Rename as "New Salary" = Salary + Bonus then OK
+* Go to "VIEW" to check the coloumn quality
+* Go to bonus rule.bonus column (right click), replace values (NOTE: do not make mistake of riting capital letter because it is case sensitive),  value to find "null", replaced with "0"
+* Change the data type to percentage(%)
+* Highlight the BONUS and NEW SALARY at the same, change data type to "Whole Number"
+* Add a "CONDITIONAL COLUMN" from the Add column bar and name as "SALARY BAND" (to know how many employees fall into a band,) and do the calculation thus;
+  1. If salary, is less than or equal to 1000, THEN 0-10,000, ADD CLAUSE...
+  2. If salary,is less than or equal to 20000, THEN 10001-20000, ADD CLAUSE
+  3. If salary,is less than or equal to 30000, THEN 20001-30000, ADD CLAUSE
+  4. If salary,is less than or equal to 40000, THEN 30001-40000, ADD CLAUSE
+  5. If salary,is less than or equal to 50000, THEN 40001-50000, ADD CLAUSE
+  6. If salary,is less than or equal to 60000, THEN 50001-60000, ADD CLAUSE
+  7. If salary,is less than or equal to 70000, THEN 60001-70000, ADD CLAUSE
+  8. If salary,is less than or equal to 80000, THEN 70001-80000, ADD CLAUSE
+  9. If salary,is less than or equal to 90000, THEN 80001-90000, ELSE
+  10. 100 001 & Above
 
-Below is the Power BI query of the Bonus Rule's data wrangling and the steps.....
+Below is the Power BI query of the Employee's data wrangling and the steps.....
 
 
 
