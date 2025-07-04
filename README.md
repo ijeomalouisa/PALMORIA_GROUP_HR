@@ -35,7 +35,29 @@ To analyze the company data and generate insights that the Palmoria management t
    b). Calculate teh total amount to be paid to individual employees (salary inclusive of Bonus)
    c). Total amount to be paid out per region and company wide.
  
-  ### DATA CLEANING/PREPARATION (EXCEL)
+  ### DATA WRANGLING/PREPARATION (EXCEL)
 In view of the preparation task concerning the above case scnario and pointers from Mr. Gamma, I used  the Power BI, to get the overall structure thus:
 * Analysis Dashboard (for Deep-Drive Metrics & Tables)
-* Visualization Dashboard (for Executive summary, High-level charts
+* Visualization Dashboard (for Executive summary, High-level charts)
+
+#### Step-by-Step Data Wrangling:
+* Lunch the Power BI
+* From "HOME" Bar "GET DATA", "Excel.xlsx", select "Palmoria Group Bonus Rules"
+* Transform data to do the cleaning
+* Unpivot the department column (choose unpivot other columns)
+* Change the column to (a) Rating (b) Bonus %.
+* Change Data type for Bonus to percentage. Done
+
+Below is the Power BI query of the Bonus Rules data wrangling and the steps.....
+
+
+
+<img width="785" alt="Palmoria Bonus Rules" src="https://github.com/user-attachments/assets/5405f794-0824-4abd-866c-669520749644" />
+
+
+
+
+
+
+
+
