@@ -102,6 +102,18 @@ This is the concluding part of the "BONUS RULES" and "EMPLOYEE" data wrangling a
 
 ### VIZUALIZATION DASHBOARD
 
+#### Pointer 1: Gender Distribution in the Organization
+In the overall distribution across genders, by location and by department, A total of 946 employee are working under the company. The male a 465 (49.15%) of the count, female 441 (46.62%) while the unknown gender are 40 (4.23%). This shows that the company tend to employ male than female counterpart as evidenced in the visual below:
+
+
+<img width="466" alt="Overall Gender Distribution in Palmoria HR1" src="https://github.com/user-attachments/assets/dea7334e-9bff-4a56-bbfc-b407c57e3e8f" />
+
+
+
+#### Pointer 2: Insights on Ratings Based on Gender 
+
+
+
 
 
 
