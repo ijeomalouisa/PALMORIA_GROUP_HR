@@ -35,7 +35,7 @@ To analyze the company data and generate insights that the Palmoria management t
    b). Calculate teh total amount to be paid to individual employees (salary inclusive of Bonus)
    c). Total amount to be paid out per region and company wide.
  
-  ### DATA WRANGLING/PREPARATION (EXCEL)
+  ### DATA WRANGLING/PREPARATION (POWER BI)
 In view of the preparation task concerning the above case scnario and pointers from Mr. Gamma, I used  the Power BI, to get the overall structure thus:
 * Analysis Dashboard (for Deep-Drive Metrics & Tables)
 * Visualization Dashboard (for Executive summary, High-level charts)
