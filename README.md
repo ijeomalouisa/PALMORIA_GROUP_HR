@@ -110,7 +110,19 @@ In the overall distribution across genders, by location and by department, A tot
 
 
 
-#### Pointer 2: Show Insights on Ratings Based on Gender 
+The visual simply shows that male gender dominated the other genders  
+
+#### Pointer 2: Show Insights on Ratings Based on Gender
+
+
+
+
+
+<img width="235" alt="Insights on Ratings based on Gender " src="https://github.com/user-attachments/assets/fce49381-61e7-4551-8daf-934915533cc6" />
+
+
+The above visual insight indicates how employee rating varies across gender.Male has the average rating of 212 while female 190 while unknown has 18 in the ratings. More female employee rated "Good" and "Very Good" as identify in the matrix than male. More male are rated "Very Poor".  
+
 
 
 
