@@ -103,7 +103,7 @@ This is the concluding part of the "BONUS RULES" and "EMPLOYEE" data wrangling a
 ### VIZUALIZATION DASHBOARD
 
 #### Pointer 1: Gender Distribution in the Organization
-In the overall distribution across genders, by location and by department, A total of 946 employee are working under the company. The male are 465 (49.15%) of the count, female 441 (46.62%) while the unknown gender are 40 (4.23%). This shows that the company tend to employ male than female counterpart as evidenced in the visual below:
+In this overall distribution across genders, by location and by department is found, A total of 946 employee are working under the company. The male are 465 (49.15%) of the count, female 441 (46.62%) while the unknown gender are 40 (4.23%). This shows that the company tend to employ male than female counterpart as evidenced in the visual below:
 
 
 <img width="466" alt="Overall Gender Distribution in Palmoria HR1" src="https://github.com/user-attachments/assets/dea7334e-9bff-4a56-bbfc-b407c57e3e8f" />
@@ -112,16 +112,27 @@ In the overall distribution across genders, by location and by department, A tot
 
 The visual simply shows that male gender dominated the other genders  
 
+
 #### Pointer 2: Show Insights on Ratings Based on Gender
-
-
-
 
 
 <img width="235" alt="Insights on Ratings based on Gender " src="https://github.com/user-attachments/assets/fce49381-61e7-4551-8daf-934915533cc6" />
 
 
-The above visual insight indicates how employee rating varies across gender.Male has the average rating of 212 while female 190 while unknown has 18 in the ratings. More female employee rated "Good" and "Very Good" as identify in the matrix than male. More male are rated "Very Poor".  
+The above insight indicates how employee rating varies across gender.Male has the average rating of 212, female 190 while unknown has 18 in the ratings. More female employee rated "Good" and "Very Good" as identify in the matrix than male. More male are rated "Very Poor".  
+
+
+#### Pointer 3: Analyze Salary and Identify Gender Pay Gap
+
+In this, we are going to understand overall salary structure; to detect any gender-baed salary disparities and highlight departments and regions needing management focus
+
+
+
+
+<img width="392" alt="Salary Structure and Gender Pay Gap" src="https://github.com/user-attachments/assets/5fa6b2c0-fc9c-4f9a-9e3a-e681a0e503c7" />
+
+
+
 
 
 
