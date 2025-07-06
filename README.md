@@ -129,8 +129,8 @@ In this, we are going to understand overall salary structure; to detect any gend
 
 
 
-<img width="392" alt="Salary Structure and Gender Pay Gap" src="https://github.com/user-attachments/assets/5fa6b2c0-fc9c-4f9a-9e3a-e681a0e503c7" />
 
+<img width="419" alt="Salary Structure and Gender Pay Gap" src="https://github.com/user-attachments/assets/3b1783b4-cb07-408d-960e-b6734791f8fb" />
 
 
 
