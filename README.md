@@ -56,7 +56,7 @@ Below is the Power BI query of the Bonus Rule's data wrangling and the steps....
 
 
 
-#### Step-by-Step Data Cleaning of Palmoria Groupemp.csv
+#### Step-by-Step Data Cleaning of Palmoria Group emp.csv
 
 * From "HOME" Bar "GET DATA", "Text/CSV", select "Palmoria Group emp.csv"
 * Transform the data to load into power query (wrangling)
@@ -69,9 +69,9 @@ Below is the Power BI query of the Bonus Rule's data wrangling and the steps....
 * to to "ADD COLUMN" bar (Custom Column), name it BONUS, = clcik on Salary * Bonus Rules, OK
 * Go to Add column again, Rename as "New Salary" = Salary + Bonus then OK
 * Go to "VIEW" to check the coloumn quality
-* Go to bonus rule.bonus column (right click), replace values (NOTE: do not make mistake of riting capital letter because it is case sensitive),  value to find "null", replaced with "0"
+* Go to bonus rule.bonus column (right click), replace values (NOTE: do not make mistake of writing capital letter because it is case sensitive),  value to find "null", replaced with "0"
 * Change the data type to percentage(%)
-* Highlight the BONUS and NEW SALARY at the same, change data type to "Whole Number"
+* Highlight the BONUS and NEW SALARY at the same time, change the data type to "Whole Number"
 * Add a "CONDITIONAL COLUMN" from the Add column bar and name as "SALARY BAND" (to know how many employees fall into a band,) and do the calculation thus;
   1. If salary, is less than or equal to 1000, THEN 0-10,000, ADD CLAUSE...
   2. If salary, is less than or equal to 20000, THEN 10001-20000, ADD CLAUSE
@@ -103,14 +103,14 @@ This is the concluding part of the "BONUS RULES" and "EMPLOYEE" data wrangling a
 ### VIZUALIZATION DASHBOARD
 
 #### Pointer 1: Gender Distribution in the Organization
-In this overall distribution across genders, by location and by department is found, A total of 946 employee are working under the company. The male are 465 (49.15%) of the count, female 441 (46.62%) while the unknown gender are 40 (4.23%). This shows that the company tend to employ male than female counterpart as evidenced in the visual below:
+In this overall distribution across genders, location and department, A total of 946 employees are working under the company. The male are 465 (49.15%) of the count, female 441 (46.62%) while the unknown gender are 40 (4.23%). This shows that the company tend to employ male than female counterpart as evidenced in the visual below:
 
 
 <img width="466" alt="Overall Gender Distribution in Palmoria HR1" src="https://github.com/user-attachments/assets/dea7334e-9bff-4a56-bbfc-b407c57e3e8f" />
 
 
 
-The visual simply shows that male gender dominated the other genders  
+The visual simply shows that male gender dominates the other genders  
 
 
 #### Pointer 2: Show Insights on Ratings Based on Gender
@@ -119,18 +119,20 @@ The visual simply shows that male gender dominated the other genders
 <img width="235" alt="Insights on Ratings based on Gender " src="https://github.com/user-attachments/assets/fce49381-61e7-4551-8daf-934915533cc6" />
 
 
-The above insight indicates how employee rating varies across gender.Male has the average rating of 212, female 190 while unknown has 18 in the ratings. More female employee rated "Good" and "Very Good" as identify in the matrix than male. More male are rated "Very Poor".  
+The above insight indicates how employee rating varies across gender. Male has the average rating of 212, female 190 while unknown has 18 i. More female employee are rated "Good" and "Very Good" as identify in the matrix than male. More male are rated "Very Poor".  
 
 
 #### Pointer 3: Analyze Salary and Identify Gender Pay Gap
 
-In this, we are going to understand overall salary structure; to detect any gender-baed salary disparities and highlight departments and regions needing management focus
+In this, we are going to understand the overall salary structure; to detect any gender-based salary disparities and highlight departments and regions needing management focus
 
 
 
 
 
 <img width="419" alt="Salary Structure and Gender Pay Gap" src="https://github.com/user-attachments/assets/3b1783b4-cb07-408d-960e-b6734791f8fb" />
+
+
 
 
 
