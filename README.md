@@ -134,6 +134,7 @@ In this, we are going to understand the overall salary structure; to detect any 
 
 
 
+The overall salary pay gap per gender shows that unknown gender has the higest average as evidenced in the 78367.50 followed by the male gender with 74789.53 and female having the lowest average of 72135.69
 
 
 
