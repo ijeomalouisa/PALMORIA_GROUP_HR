@@ -124,7 +124,7 @@ The above insight indicates how employee rating varies across gender. Male has t
 
 #### Pointer 3: Analyze Salary and Identify Gender Pay Gap
 
-In this, we are going to understand the overall salary structure; to detect any gender-based salary disparities and highlight departments and regions needing management focus
+In this, we are going to understand the overall salary structure; to detect any gender-based salary disparities and highlight departments and regions needing management focus.
 
 
 
@@ -134,7 +134,10 @@ In this, we are going to understand the overall salary structure; to detect any 
 
 
 
-The overall salary pay gap per gender shows that unknown gender has the higest average as evidenced in the 78367.50 followed by the male gender with 74789.53 and female having the lowest average of 72135.69
+
+
+
+The overall salary pay gap per gender shows that unknown gender has the highest average as evidenced in the 78367.50 followed by the male gender with 74789.53 and female having the lowest average of 72135.69. Lagos has the highest average pay as indicated in the gender pay per location as unknow genders has 86860.00, male 76680.65 and female 74163.47. looking at the average salary pay gap by gender per department, unknown genders earn more in the Marketing and Accounting department but receive less average pay in the Business Development and product Management as shown in the 49956.67and 36480.00 respectively.
 
 
 
