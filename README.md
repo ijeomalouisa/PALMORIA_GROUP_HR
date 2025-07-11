@@ -137,11 +137,29 @@ In this, we are going to understand the overall salary structure; to detect any 
 
 
 
+
+
 The overall salary pay gap per gender shows that unknown gender has the highest average as evidenced in the 78367.50 followed by the male gender with 74789.53 and female having the lowest average of 72135.69. Lagos has the highest average pay as indicated in the gender pay per location as unknow genders has 86860.00, male 76680.65 and female 74163.47. looking at the average salary pay gap by gender per department, unknown genders earn more in the Marketing and Accounting department but receive less average pay in the Business Development and product Management as shown in the 49956.67and 36480.00 respectively.
 
 
 
+#### Compliance & Pay Distribution Analysis:
 
+The aim here is to check if Palmoria Group complies with the $90,000 minimum salary for Manufacturing employees as well, know the overall salary distribution in $10,000 Bands.
+
+
+
+
+
+<img width="304" height="260" alt="SALARY BAND BY LOCATION2" src="https://github.com/user-attachments/assets/b9cbd119-e7b4-45f8-9648-52144fa3944c" />
+
+DISTRIBUTION OF SALARY BAND PER LOCATION
+
+
+
+<img width="455" height="221" alt="SALARY BAND PER DEPARTMENT" src="https://github.com/user-attachments/assets/752580ec-4746-4d36-94f5-1d495b58026f" />
+
+DISTRIBUTION OF SALARY BAND PER DEPARTMENT 
 
 
 
