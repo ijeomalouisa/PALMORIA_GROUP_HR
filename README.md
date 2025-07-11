@@ -167,12 +167,23 @@ Legal department is the highest in the distribution across the department with t
 
 #### Pointer 5: Bonus Allocation Using Bonus Rules 
 
+BONUS CALCULATIONS: This calculation is achieved using conditional columns thus
+* Unpivot and merge Bonus Rules and Employee Table
+* Calculate Bonus Amount = Salary * Bonus %
+* Calculate Totapy Pay = Salary + Bonus
 
-
-
-
+FIND BELOW THE EXECUTIONS:
 
 <img width="599" height="347" alt="BONUS ALLOCATION USING BONUS RULES " src="https://github.com/user-attachments/assets/1fdb96e6-4f71-4295-941b-fed4feb8443f" />
 
+
+TOTAL BONUS AND PAY BY REGION AND DEPARTMENT
+
+
+
+<img width="212" height="141" alt="TOTAL BONUS AND PAY BY REGION AND DEPARTMENT" src="https://github.com/user-attachments/assets/8e990759-e26e-48af-bdb7-49b273d33cf8" />
+
+
+### FINDINGS 
 
 
