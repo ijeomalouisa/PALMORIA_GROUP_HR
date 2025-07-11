@@ -165,5 +165,14 @@ In the list of manufacturing employees <$90000 above, 202 workers fall into sala
 Legal department is the highest in the distribution across the department with the salary  band of 20001-30001 with the total of of seven(7) employees. Training Department with the 13 employees in the salary band of 90001-100000 and 50001-60000 respectively with the count of 16 employees. Production Management earn highest in 60001-70001 as well as in 100000 and above. Kaduna has the highest salary band in the salary distribution across Region.
 
 
+#### Pointer 5: Bonus Allocation Using Bonus Rules 
+
+
+
+
+
+
+<img width="599" height="347" alt="BONUS ALLOCATION USING BONUS RULES " src="https://github.com/user-attachments/assets/1fdb96e6-4f71-4295-941b-fed4feb8443f" />
+
 
 
