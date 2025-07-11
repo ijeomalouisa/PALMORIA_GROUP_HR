@@ -159,7 +159,10 @@ DISTRIBUTION OF SALARY BAND PER LOCATION
 
 <img width="455" height="221" alt="SALARY BAND PER DEPARTMENT" src="https://github.com/user-attachments/assets/752580ec-4746-4d36-94f5-1d495b58026f" />
 
-DISTRIBUTION OF SALARY BAND PER DEPARTMENT 
+DISTRIBUTION OF SALARY BAND PER DEPARTMENT
+
+In the list of manufacturing employees <$90000 above, 202 workers fall into salary band of 100000 & above distribution across the organization, 90 employees faills into 90001-100000, 28 workers falls into 20001-30000 and 101 employees into the band of 30001-40001.
+Legal department is the highest in the distribution across the department with the salary  band of 20001-30001 with the total of of seven(7) employees. Training Department with the 13 employees in the salary band of 90001-100000 and 50001-60000 respectively with the count of 16 employees. Production Management earn highest in 60001-70001 as well as in 100000 and above. Kaduna has the highest salary band in the salary distribution across Region.
 
 
 
