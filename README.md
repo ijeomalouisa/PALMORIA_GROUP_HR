@@ -185,11 +185,17 @@ TOTAL BONUS AND PAY BY REGION AND DEPARTMENT
 
 
 ### FINDINGS 
-Palmora Group has a nearly even male-to-female workforce.
-Lagos has the highest salary concentration.
-Business Development leads the pack.
-Many employees are rated as "Good", but a notable portion are “Not Rated” — this may require HR intervention.
-Salaries between genders are relatively balanced but could benefit from further drill-down by role.
+* Palmora Group has a nearly even male-to-female workforce,
+* Unknown genders has the highest average salary pay
+* Kaduna is the highest salary band distribution across the region
+* Lagos has the highest salary concentration, management should focused on that region
+* Business Development leads the pack.
+* Many employees are rated as "Good", but a notable portion are “Not Rated” — this may require HR intervention.
+* Salaries between genders are relatively balanced but could benefit from further drill-down by role.
+
+### CONCLUSION
+Polmoria Group of Company has male to female workforce of 946, there is no disparity because some workers did not disclose their gender, relatively, some employees earn salary greater than of equal to $90,000 and above taking cognizance of the the salary band. A good number of workers are rated "Good" while few "Not Rated". The company needs to review Abuja location to know what is not working in that area. More female employee should be deployed in the company. Finaly, The company meet the requirement of the 90,000 salary distribution 
+
 
 
 
