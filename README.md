@@ -185,5 +185,11 @@ TOTAL BONUS AND PAY BY REGION AND DEPARTMENT
 
 
 ### FINDINGS 
+Palmora Group has a nearly even male-to-female workforce.
+Lagos has the highest salary concentration.
+Business Development leads the pack.
+Many employees are rated as "Good", but a notable portion are “Not Rated” — this may require HR intervention.
+Salaries between genders are relatively balanced but could benefit from further drill-down by role.
+
 
 
