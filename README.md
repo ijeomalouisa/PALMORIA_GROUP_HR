@@ -2,26 +2,27 @@
 
 
 ###  PROJECT TOPIC: PALMORIA GROUP HR ANALYSIS
-The analysis is to look for the issues bordering on gender inequality of the Palmoria Group HR manufacturing company in its three (3) regions, the company is based in Nigeria and an HR analytics experts is needed to analyze the company's data and come up with recommendations for Management attention.
+The analysis is focused on issues bordering on gender inequality in the Palmoria Group HR manufacturing company and at its three (3) regions.
 
 ### PROJECT OVERVIEW
-Palmoria Group is a manufacturing company based in Nigeria. The company is faced with the issues bordering on gender inequality in its three (3) regions with the country. Based on their ambitions to scale the business to other regions and even overseas, if the problems are not tackled, it can spriral downwards thereby jeopardize the company's image. To address the issues before they get out of hand, an HR Analyts needs to come in to identify key areas within the business that could give rise to issues and address them immediately.
+Palmoria Group is a manufacturing company based in Nigeria. The company is faced with the issues bordering on gender inequality in its three (3) regions within the country. Based on their ambitions to scale the business to other regions and even overseas, if the problems are not tackled, it can spriral downwards thereby jeopardize the company's image. To address the issues before they get out of hand, an HR Analyts needs to come in to identify key areas within the business that could give rise to issues, address them immediately and come up with recommendations for Management attention.
+
 
 ### SOURCE OF DATA:
 The primary dataset to be used for this analysis is the "Palmoria Group Bonus Rules.xlsx" and the "Palmoria Group Emploment.CSV file. The dataset contains information such as; Staff name, gender, department, salary, location and ratings.
 
 ### TOOLS USED: 
-- Power BI tool (https://www.microsoft.com), will be use to explore, overall structure is 
+- Power BI tool (https://www.microsoft.com), will be use to explore 
 - Power BI query (for cleaning of the data)
 - Analysis Dashboard (for Deep-Dive Metrics and Tables)
 - Visualization Dashboard ( for excuting summary and high-level charts)
 
 ###  EXPLORATORY DATA ANALYSIS (EDA):
-A comprehensive Exploratory Data Analysis (EDA) was deployed using appropriate analytical tools and techniques relevant to the context of each dataset; the Palmoria Group bonus Rules from Excel and the Palmoria Group Employment.Comma Seperated Values (csv) data are used to answer these key questions. 
+A comprehensive Exploratory Data Analysis (EDA) was deployed using appropriate analytical tools and techniques relevant to the context of each dataset; the Palmoria Group bonus Rules from Excel and the Palmoria Group Employment.Comma Seperated Values (csv) data are used to answer the key questions. 
 
 ##### CASE SCENARIO:
 The analysis will be based on the use of Power BI to answer the following case scenario and pointers from Mr.Gamma:
-To analyze the company data and generate insights that the Palmoria management team would need to address and the analysis is to be visualized using appropriate charts. Focuse should be on gender related issues within the organization and its regions, Insight required  from the Analyst are based on discretion. Generally, there are two genders in the organization but some employees refused to disclose their gender, so, a generic gender status is required. Some staff are without a salary reason is that they are no longer with the company, they need to be out. lastly, some departments are indicated as "NULL" the departments also need to be taken out.
+To analyze the company data and generate insights that the Palmoria management team would need to address and the analysis is to be visualized using appropriate charts. Focuse should be on gender related issues within the organization and its regions, Insight required  from the Analyst are based on discretion. Generally, there are two genders in the organization but some employees refused to disclose their gender, so, a generic gender status is required. Some staff are without a salary, reason been that they are no longer with the company, they need to be out. lastly, some departments are indicated as "NULL" the departments also need to be taken out.
 
 #### CASE QUESTIONS: POINTERS FROM MR. GAMMA
 
@@ -36,7 +37,7 @@ To analyze the company data and generate insights that the Palmoria management t
    c). Total amount to be paid out per region and company wide.
  
   ### DATA WRANGLING/PREPARATION (POWER BI)
-In view of the preparation task concerning the above case scnario and pointers from Mr. Gamma, I used  the Power BI, to get the overall structure thus:
+In view of the preparation task concerning the above case scnario and pointers from Mr. Gamma, the analyst used the Power BI query to get the overall structure thus:
 * Analysis Dashboard (for Deep-Drive Metrics & Tables)
 * Visualization Dashboard (for Executive summary, High-level charts)
 
@@ -103,7 +104,7 @@ This is the concluding part of the "BONUS RULES" and "EMPLOYEE" data wrangling a
 ### VIZUALIZATION DASHBOARD
 
 #### Pointer 1: Gender Distribution in the Organization
-In this overall distribution across genders, location and department, A total of 946 employees are working under the company. The male are 465 (49.15%) of the count, female 441 (46.62%) while the unknown gender are 40 (4.23%). This shows that the company tend to employ male than female counterpart as evidenced in the visual below:
+In this overall distribution across genders, location and department, A total of 946 employees are working under the company. The male are 465 (49.15%) of the count, female 441 (46.62%) while the unknown genders are 40 (4.23%). This shows that the company tend to employ male than female counterpart as evidenced in the visual below:
 
 
 <img width="466" alt="Overall Gender Distribution in Palmoria HR1" src="https://github.com/user-attachments/assets/dea7334e-9bff-4a56-bbfc-b407c57e3e8f" />
@@ -119,12 +120,12 @@ The visual simply shows that male gender dominates the other genders
 <img width="235" alt="Insights on Ratings based on Gender " src="https://github.com/user-attachments/assets/fce49381-61e7-4551-8daf-934915533cc6" />
 
 
-The above insight indicates how employee rating varies across gender. Male has the average rating of 212, female 190 while unknown has 18 i. More female employee are rated "Good" and "Very Good" as identify in the matrix than male. More male are rated "Very Poor".  
+The above insight indicates how employee rating varies across gender. Male has the average rating of 212, female 190 while unknown has 18. More female employee are rated "Good" and "Very Good" as identify in the matrix than male. Some male are rated "Very Poor".  
 
 
 #### Pointer 3: Analyze Salary and Identify Gender Pay Gap
 
-In this, we are going to understand the overall salary structure; to detect any gender-based salary disparities and highlight departments and regions needing management focus.
+In this, the overall salary structure will be showcased; to detect the gender-based salary disparities and highlight departments and regions needing management focus.
 
 
 
@@ -145,7 +146,7 @@ The overall salary pay gap per gender shows that unknown gender has the highest 
 
 #### Compliance & Pay Distribution Analysis:
 
-The aim here is to check if Palmoria Group complies with the $90,000 minimum salary for Manufacturing employees as well, know the overall salary distribution in $10,000 Bands.
+The aim here is to check if company complies with the $90,000 minimum salary for Manufacturing employees as well, know the overall salary distribution in $10,000 Bands.
 
 
 
@@ -161,7 +162,7 @@ DISTRIBUTION OF SALARY BAND PER LOCATION
 
 DISTRIBUTION OF SALARY BAND PER DEPARTMENT
 
-In the list of manufacturing employees <$90000 above, 202 workers fall into salary band of 100000 & above distribution across the organization, 90 employees faills into 90001-100000, 28 workers falls into 20001-30000 and 101 employees into the band of 30001-40001.
+In the list of manufacturing employees <$90000 above, 202 workers falls into salary band of 100000 & above distribution across the organization, 90 employees falls into 90001-100000, 28 workers falls into 20001-30000 and 101 employees into the band of 30001-40001.
 Legal department is the highest in the distribution across the department with the salary  band of 20001-30001 with the total of of seven(7) employees. Training Department with the 13 employees in the salary band of 90001-100000 and 50001-60000 respectively with the count of 16 employees. Production Management earn highest in 60001-70001 as well as in 100000 and above. Kaduna has the highest salary band in the salary distribution across Region.
 
 
